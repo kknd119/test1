@@ -8,7 +8,7 @@ public class jv03_03_중처ifelse {
         System.out.println("성적을 입력하세요.");
         int grade = keyboard.nextInt();
         System.out.println("입력받은 값은 :"+grade +"입니다.");
-        
+    
         
         if(grade>=90){
             System.out.println("학점 : A");
